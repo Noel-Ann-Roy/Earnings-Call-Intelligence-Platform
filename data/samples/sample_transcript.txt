@@ -1,0 +1,63 @@
+APPLE INC. Q4 FY2023 EARNINGS CALL TRANSCRIPT (SAMPLE)
+Date: November 2, 2023
+[Operator Instructions]
+
+OPERATOR: Good afternoon, and welcome to Apple's Fourth Quarter Fiscal Year 2023 Earnings Conference Call. Today's call is being recorded.
+
+TIM COOK (CEO): Good afternoon, everyone. We're pleased to report another strong quarter that demonstrates the resilience and strength of our business. Revenue came in at $89.5 billion, which was slightly above the high end of our guidance range despite a challenging macroeconomic environment.
+
+We continue to see robust demand for our iPhone 15 lineup, which launched in September and is off to an incredible start. Customer satisfaction scores are among the highest we've ever recorded. The iPhone 15 Pro and Pro Max, in particular, have generated exceptional enthusiasm from our customers due to the titanium design and the new camera system.
+
+Our Services segment reached an all-time revenue record of $22.3 billion, growing 16% year-over-year. We now have over 1 billion paid subscriptions across our platform, another all-time record. This demonstrates the incredible value our customers see in services like Apple Music, Apple TV+, iCloud, and the App Store.
+
+LUCA MAESTRI (CFO): Thank you, Tim. Our September quarter results continue to demonstrate the strength of our ecosystem and our ability to manage through a difficult environment. Let me go through the financial details.
+
+Total revenue was $89.5 billion, a decline of 1% year-over-year, but better than we expected given the macroeconomic headwinds. Products revenue was $67.2 billion and Services revenue reached a new all-time record of $22.3 billion.
+
+We generated very strong operating cash flow of $21.6 billion, and we returned over $25 billion to our shareholders during the quarter through dividends and share repurchases. We repurchased $18 billion of Apple stock in the quarter.
+
+Gross margin was 45.2%, at the high end of our guidance range. We continue to see favorable commodity costs and strong operational efficiency across the business.
+
+TIM COOK: Let me talk about our product categories. iPhone revenue was $43.8 billion, down 3% year-over-year. This decline reflects the timing of our new iPhone 15 launch, which happened late in the fiscal quarter. Early channel fill is strong, and customer response to iPhone 15 has been exceptional.
+
+Mac revenue was $7.6 billion, up 2% year-over-year. We're seeing great demand for the M3 chip family, which we announced in late October. The performance improvements are extraordinary.
+
+iPad revenue was $6.4 billion, down 10% year-over-year, reflecting our decision to focus on higher-value segments of the market. We anticipate iPad trends to improve over the coming quarters.
+
+Wearables, Home and Accessories revenue was $9.3 billion, down 3%. Apple Watch continues to grow its installed base, and we're very excited about the health features in Apple Watch Series 9.
+
+ANALYST QUESTION: Can you discuss the competitive environment in the smartphone market, particularly in China?
+
+TIM COOK: China remains a very important market for us, and we remain committed to it for the long term. We did see some increased competition in China during the quarter. However, we're seeing very strong performance from the iPhone 15 lineup globally, and our installed base in China continues to grow. We face pricing pressure from local competitors in certain segments.
+
+We expect to see continued competition in China, and we're focused on continuing to deliver the best products and services to our Chinese customers. This is a competitive risk we take seriously.
+
+LUCA MAESTRI: Regarding our Q1 guidance: We expect revenue to be between $89 billion and $92 billion. We expect gross margin to be between 45% and 46%. We expect operating expenses to be between $14.5 billion and $14.7 billion. We anticipate our tax rate to be approximately 16%.
+
+We remain confident in our long-term growth trajectory. We expect services to continue to grow at a double-digit rate. We forecast continued strong free cash flow generation throughout fiscal year 2024.
+
+TIM COOK: We're making significant investments in artificial intelligence and machine learning. AI is already deeply embedded in our products through features like Siri, Face ID, computational photography, and the autocorrect system. We expect AI to be a significant driver of innovation and growth going forward.
+
+The regulatory environment is something we continue to monitor closely. We've seen increased regulatory scrutiny in Europe around the App Store, and we're working constructively with regulators to find solutions that work for developers and customers. The Digital Markets Act presents some challenges, but we believe we can navigate them effectively.
+
+Rising costs in certain component categories remain a headwind, but we've been effective in managing our supply chain and working with suppliers to mitigate inflationary pressures. We believe our supply chain is in a healthy position heading into Q1.
+
+We're expanding into new markets with Apple Pay Later and other financial services products. New partnerships with Goldman Sachs, for example, demonstrate our ability to create value in adjacent markets.
+
+We're also seeing strong customer growth in emerging markets. India had a tremendous quarter, with record revenue growth of over 40% year-over-year. We opened our first retail stores in India, which received an extraordinary reception from customers.
+
+Our installed base of active devices reached an all-time record, exceeding 2 billion active devices globally. This growing installed base provides a strong foundation for our Services business.
+
+Looking ahead, we're excited about our product roadmap. We anticipate announcing new products across multiple categories in the coming months. We believe we're in a position of strength to continue delivering innovative products and strong financial results.
+
+We expect to face macro headwinds including a stronger dollar, which will be approximately a 3-point headwind to our revenue growth in Q1. Foreign exchange remains a challenge given the strength of the US dollar.
+
+Despite these headwinds, we are confident in our ability to execute. We have the best team in the world, the best products, and a loyal customer base. We believe Apple is positioned to outperform in any economic environment.
+
+ANALYST QUESTION: What's your outlook for the Vision Pro launch?
+
+TIM COOK: We are incredibly excited about Apple Vision Pro. We announced it in June and we expect to launch it in early calendar year 2024. The developer community has embraced it enthusiastically, with thousands of spatial computing apps already in development. This is a new product category for us, and we anticipate it will create an entirely new way for people to interact with computing technology. We forecast strong initial demand from early adopters.
+
+LUCA MAESTRI: In terms of capital allocation, we remain committed to our dividend program. We increased our quarterly dividend by 4% this year to $0.24 per share. We also remain committed to our share repurchase program. We have $60 billion remaining on our current repurchase authorization.
+
+OPERATOR: Thank you. This concludes today's earnings call. You may now disconnect.

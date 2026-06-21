@@ -1,0 +1,66 @@
+# ── Virtual Environment ───────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Python Cache ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── HuggingFace Model Cache ───────────────────────────────────────
+# Models download here automatically — DO NOT commit (hundreds of MB)
+.cache/
+~/.cache/huggingface/
+
+# ── Streamlit Cache ───────────────────────────────────────────────
+.streamlit/
+
+# ── Jupyter Notebooks ─────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS Files ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE Files ─────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ── Build Artifacts ───────────────────────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ── Test Artifacts ────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ── Uploaded Transcripts (user data — do not commit) ─────────────
+data/uploads/
+*.pdf
+# Keep the sample transcript
+!data/samples/sample_transcript.txt
+
+# ── Environment Variables ─────────────────────────────────────────
+.env
+.env.local
+
+# ── Logs ──────────────────────────────────────────────────────────
+*.log
+logs/
+
+__pycache__/
+*.pyc
+*.pyo

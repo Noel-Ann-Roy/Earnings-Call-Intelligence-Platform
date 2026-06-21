@@ -1,0 +1,32 @@
+# ============================================================
+# Earnings Call Intelligence Platform - Requirements
+# ============================================================
+
+# --- Core Web Framework ---
+streamlit==1.35.0           # Frontend UI framework
+
+# --- NLP: FinBERT (Financial Sentiment) ---
+transformers==4.40.2        # HuggingFace model hub (loads FinBERT)
+torch==2.3.0                # PyTorch backend for FinBERT inference
+
+# --- NLP: BERTopic (Topic Modeling) ---
+bertopic==0.16.3            # Topic modeling library
+sentence-transformers==2.7.0  # Embeddings backend for BERTopic
+umap-learn==0.5.6           # Dimensionality reduction used by BERTopic
+hdbscan==0.8.44             # Clustering algorithm used by BERTopic
+
+# --- NLP: spaCy (Text Processing) ---
+spacy==3.7.4                # NLP pipeline: tokenization, NER, sentence splitting
+
+# --- Data Handling ---
+pandas==2.2.2               # DataFrames for tables and reports
+numpy>=1.26.4               # Numerical operations
+
+# --- PDF Extraction ---
+pdfplumber==0.11.1          # Extract text from PDF files
+
+# --- Visualization ---
+plotly==5.22.0              # Interactive charts (gauge, pie, bar)
+
+# --- Utilities ---
+scikit-learn>=1.5.0         # TF-IDF vectorizer (used by BERTopic internally)
