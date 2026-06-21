@@ -1,5 +1,5 @@
 # Earnings Call Intelligence Platform
-
+Built with Python | FinBERT | BERTopic | spaCy | Streamlit | Plotly
 A production-quality NLP system that analyzes company earnings call transcripts
 and generates analyst-style intelligence reports — entirely offline, using
 open-source models. No paid APIs required.
